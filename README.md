@@ -49,8 +49,15 @@ Steps:
        - Mac
        - Windows
        - Linux
+
+OPTIONAL
     
-  9) Optional
+  8) Wireless - but slower and less reliable
       -  Go wireless, but it is slower and not as reliable
-      -  Setup a backup drive.  Can be a USB HDD.
+
+  9) Setup a backup drive.  Can be a USB HDD.
+
+  10) Setup private shares for users
+
+
        
