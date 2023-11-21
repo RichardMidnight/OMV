@@ -1,10 +1,9 @@
-# OMV
-Open Media Vault on a Raspberry pi 4
+# Open Media Vault
+Nov 2023
 
-As of Nov 2023
+Simplified instructions to install OMV on a Raspberry Pi based on official instruction but use keyboard and monitor to set it up.
 
-Simplified instructions based on official instruction but use keyboard and monitor to set it up.
-Official instructions: https://wiki.omv-extras.org/doku.php?id=omv6:raspberry_pi_install
+Official instructions are here: https://wiki.omv-extras.org/doku.php?id=omv6:raspberry_pi_install
 
 Need:
   -  Raspberry pi 4 (or other)
@@ -12,16 +11,16 @@ Need:
   -  Good 8GB SD card
   -  HDD.  I am using a 2TB spinning drive.
   -  Netowrk wire.
-  -  Monitor and keyboard for setup.
+  -  Monitor and keyboard for simplified setup.
 
 Steps:
   1) Flash "Raspberry Pi OS Lite Bullseye" to the 8GB card using imager.  Use the 64GB version if you have an 8GB pi.
      - Set name to omv and local
-     - You MUST turn on SSH or the script will not work (valid Nov 2023)
+     - You MUST turn on SSH or the script will not work (as of Nov 2023)
      - Set the username and password
      - Set the locale settings
 
-  2) Boot your Pi with the 8GB card, and let it install, then logon. 
+  2) Boot your Pi with the 8GB card, let it install, then logon. 
      
   3) Update OS and reboot:
 
