@@ -49,8 +49,11 @@ Steps:
 
   7) Test from Mac, Windows, Linux computer
        - Mac
+           - TBD
        - Windows
+           - TBD
        - Linux
+           - TBD
 
 OPTIONAL
 -
