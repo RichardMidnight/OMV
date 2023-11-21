@@ -1,9 +1,13 @@
 # Open Media Vault
 Nov 2023
 
-Simplified instructions to install OMV on a Raspberry Pi based on official instruction but use keyboard and monitor to set it up.
+Simplified instructions to install OMV on a Raspberry Pi based on official instruction but use keyboard and monitor to simplify set it up.
 
 Official instructions are here: https://wiki.omv-extras.org/doku.php?id=omv6:raspberry_pi_install
+
+Explaining Computers video here.  But note you MUST turn on SSH.  [
+(https://www.youtube.com/watch?v=IWDBYDYJVrA)
+
 
 Need:
   -  Raspberry pi 4 (or other)
