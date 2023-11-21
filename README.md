@@ -29,7 +29,7 @@ Steps:
      
   4) Install OMB 6:
 
-    wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
+        wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
     
   5) When it shows the IP address write it down and Now you can relocate your pi and power it up headless
      
