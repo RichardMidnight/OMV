@@ -28,4 +28,6 @@ Steps:
   6) Configure OMV
      - Go to a web browser and goto ip or name
      - username is admin.  pw is openmediavault
+     - Wipe your HHD:  Goto Disks. Select your HDD, wipe it
+     - Add an Ext4 Filesystem to the HDD
      - 
