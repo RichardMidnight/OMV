@@ -16,7 +16,12 @@ Steps:
      - you MUST turn on ssh
      - easiest if you set the username / password and local settings
   2) Boot your Pi with the 8GB card
-  3) Update os and reboot:  sudo apt update && sudo apt upgrade -y && sudo reboot
+  3) Update os and reboot:
+
+         sudo apt update && sudo apt upgrade -y && sudo reboot
      
-      Install OMB 6:  wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
-  4) 
+  4) Install OMB 6:
+
+    wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
+    
+  5) 
