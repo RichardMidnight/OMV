@@ -26,8 +26,8 @@ Steps:
     
   5) When it shows the IP address write it down and Now you can relocate your pi and power it up headless
   6) Configure OMV
-     - Go to a web browser and goto ip or name
-     - username is admin.  pw is openmediavault
+     - Login to OMV: Go to a web browser and goto ip or name.  username is admin.  pw is openmediavault
      - Wipe your HHD:  Goto Disks. Select your HDD, wipe it
      - Add an Ext4 Filesystem to the HDD
+     - Mount FS
      - 
