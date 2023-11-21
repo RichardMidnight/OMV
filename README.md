@@ -12,16 +12,18 @@ Need:
   -  HDD
 
 Steps:
-  1) Flash RaspiLite Bullseye to the 8GB card.  Use the 64GB version if you have an 8GB pi.
-     - you MUST turn on ssh
-     - easiest if you set the username / password and local settings
+  1) Flash "Raspberry Pi OS Lite Bullseye" to the 8GB card.  Use the 64GB version if you have an 8GB pi.
      - set a name of omv and local
-  2) Boot your Pi with the 8GB card
-  3) Update os and reboot:
+     - you MUST turn on ssh or the script will not work.
+     - set the username / password
+     - set the and locale settings
+
+  3) Boot your Pi with the 8GB card
+  4) Update os and reboot:
 
          sudo apt update && sudo apt upgrade -y && sudo reboot
      
-  4) Install OMB 6:
+  5) Install OMB 6:
 
     wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
     
