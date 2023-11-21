@@ -32,4 +32,4 @@ Steps:
      - Mount FS
      - Create a shared folder.  called shared.  Give everyone full access
      - Add SMB service
-     - Setup SMB share to the shared folder
+     - Setup SMB share to the shared folder.  Select GUEST ONLY
