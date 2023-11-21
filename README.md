@@ -29,15 +29,16 @@ Steps:
      
   4) Install OMB 6:
 
-        wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
+         wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
     
-  5) When it shows the IP address write it down and Now you can relocate your pi and power it up headless
+  5) When it finishes installing, write down the IP address.  Now you can relocate your pi and power it up headless
      
   6) Configure OMV
-     - Login to OMV: Go to a web browser and goto ip or omv.local.  username is admin.  pw is openmediavault
+     - Login to OMV: Go to a web browser and goto omv.local or the ip address.  username is admin.  pw is openmediavault
      - Wipe your HHD:  Goto Disks. Select your HDD, wipe it
      - Add an Ext4 FileSystem to the HDD
      - Mount FileSystem
-     - Create a shared folder.  I called it called shared.  Give everyone full access
+     - Create a shared folder.  I called it "shared".  Give everyone full access.
      - Add SMB service
-     - Setup an SMB share to the shared folder.  Select GUEST ONLY.
+     - Setup an SMB share to the shared folder.  I called it "shared".  Select GUEST ONLY.
+       
