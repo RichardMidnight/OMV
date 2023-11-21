@@ -30,4 +30,6 @@ Steps:
      - Wipe your HHD:  Goto Disks. Select your HDD, wipe it
      - Add an Ext4 Filesystem to the HDD
      - Mount FS
-     - 
+     - Create a shared folder.  called shared.  Give everyone full access
+     - Add SMB service
+     - Setup SMB share to the shared folder
