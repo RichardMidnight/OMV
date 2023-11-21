@@ -53,7 +53,7 @@ Steps:
 OPTIONAL
     
   8) Wireless - but slower and less reliable
-      -  Go wireless, but it is slower and not as reliable
+      -  
 
   9) Setup a backup drive.  Can be a USB HDD.
 
