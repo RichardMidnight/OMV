@@ -24,4 +24,8 @@ Steps:
 
     wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
     
-  5) 
+  5) When it shows the IP address write it down and Now you can relocate your pi and power it up headless
+  6) Configure OMV
+     - Go to a web browser and goto ip or name
+     - username is admin.  pw is openmediavault
+     - 
