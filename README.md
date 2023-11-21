@@ -10,6 +10,7 @@ Explaining Computers video here.  But note you MUST turn on SSH.  [
 
 
 Need:
+-
   -  Raspberry pi 4 (or other)
   -  I used the Geekworm NASPi-Lite case
   -  Good 8GB SD card
@@ -17,7 +18,8 @@ Need:
   -  Netowrk wire.
   -  Monitor and keyboard for simplified setup.
 
-Steps:
+Steps: 
+-
   1) Flash "Raspberry Pi OS Lite Bullseye" to the 8GB card using imager.  Use the 64GB version if you have an 8GB pi.
      - Set name to omv and local
      - You MUST turn on SSH or the script will not work (as of Nov 2023)
@@ -51,9 +53,10 @@ Steps:
        - Linux
 
 OPTIONAL
+-
     
   8) Wireless - but slower and less reliable
-      -  
+      -  TBD
 
   9) Setup a backup drive.  Can be a USB HDD.
 
