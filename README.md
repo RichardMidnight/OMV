@@ -30,7 +30,7 @@ Steps:
 
          wget -O - https://github.com/OpenMediaVault-Plugin-Developers/installScript/raw/master/install | sudo bash
     
-  5) When it finishes installing, write down the IP address.  Now you can relocate your pi and power it up headless
+  5) When it finishes installing, write down the IP address.  Now you can relocate your pi and power it up headless, but you need the network wire.
      
   6) Configure OMV
      - Login to OMV: Go to a web browser and goto omv.local or the ip address.  username is admin.  pw is openmediavault
@@ -40,4 +40,13 @@ Steps:
      - Create a shared folder.  I called it "shared".  Give everyone full access.
      - Add SMB service
      - Setup an SMB share to the shared folder.  I called it "shared".  Select GUEST ONLY.
+
+  7) Test from Mac, Windows, Linux computer
+       - Mac
+       - Windows
+       - Linux
+    
+  9) Optional
+      -  Go wireless, but it is slower and not as reliable
+      -  Setup a backup drive.  Can be a USB HDD.
        
