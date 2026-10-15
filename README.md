@@ -5,13 +5,6 @@ folder (photos, videos, documents), backed up to a USB drive with the
 "USB Backup" plugin. The OS runs off the SD card, so the SD card gets its
 own backup too (below).
 
-What's in this folder:
-
-- README.md    — this document (the one thing committed to git)
-- private.txt  — address, web/SSH logins (kept OUT of git, always)
-- archive.txt  — the gory technical reference (agent working docs)
-- state.txt    — dated state log ("before" baselines, update log)
-
 ## Disks
 
 | Role      | Drive                                                    |
